@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm keem</h1>
-<h3 align="center">A passionate frontend developer from New York</h3>
+<h1 align="center">hey, I'm keem</h1>
+<h3 align="center">A passionate developer from New York</h3>
 
 - Im passionate about **forensics, hardware & DFIR Projects**
 
-- 🌱 I’m currently learning **Frameworks, frontend & backend**
+   I’m currently learning **Frameworks, frontend & backend**
 
 
 <h3 align="left">Languages and Tools:</h3>
